@@ -1,4 +1,4 @@
-# Real-time Sensor Management System
+# Real-time Sensor Monitoring Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
 This uses not only Angular, but also Node.js and Python.
